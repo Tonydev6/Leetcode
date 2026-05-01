@@ -1,0 +1,1 @@
+A lightweight C# background service that automatically monitors your LeetCode account for newly accepted solutions and pushes the source code directly to this GitHub repository. Built with .NET 8, GraphQL, and the GitHub API to seamlessly back up your coding journey.
